@@ -67,7 +67,7 @@ body {
 }
 .petals > div {
   position: absolute;
-  background: #9d193b; // Darker red color
+  background: #9d193b;
   width: 45px;
   height: 80px;
   top: 55px;
@@ -302,4 +302,4 @@ body {
     top: 335px;
     opacity: 0;
  }
-}
+  }
