@@ -78,7 +78,7 @@ body {
   box-shadow: 0px 0px 30px rgb(168, 59, 99);
   left: 80px;
   top: 60px;
-  background: #b14d66;
+  background: #7e0315;
 }
 .petals > div:nth-child(2), .petals > div:nth-child(4), .petals > div:nth-child(6) {
   background: #cfcfcf;
