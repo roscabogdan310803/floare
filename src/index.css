@@ -78,7 +78,7 @@ body {
   box-shadow: 0px 0px 30px rgb(168, 59, 99);
   left: 80px;
   top: 60px;
-  background: #7e0315;
+  background: #b70316;
 }
 .petals > div:nth-child(2), .petals > div:nth-child(4), .petals > div:nth-child(6) {
   background: #cfcfcf;
@@ -94,7 +94,7 @@ body {
 }
 .petals > div:nth-child(2) {
   z-index: 5;
-  background: #4d091a;
+  background: #7e0315;
   top: 75px;
   height: 70px;
   box-shadow: 0px 0px 50px rgba(245, 148, 184, .5);
@@ -103,7 +103,7 @@ body {
 }
 .petals > div:nth-child(3) {
   z-index: 4;
-  background:#4d091a;
+  background:#7e0315;
   top: 75px;
   height: 70px;
   box-shadow: 0px 0px 50px rgba(245, 148, 184, .5);
@@ -112,7 +112,7 @@ body {
 }
 .petals > div:nth-child(4) {
   z-index: 3;
-  background: #520b1d;
+  background: #7e0315;
   top: 70px;
   height: 75px;
   box-shadow: 0px 0px 50px rgba(245, 148, 184, .5);
@@ -121,7 +121,7 @@ body {
 }
 .petals > div:nth-child(5) {
   z-index: 2;
-  background: #4d091a;
+  background: #7e0315;
   top: 70px;
   height: 75px;
   box-shadow: 0px 0px 50px rgba(245, 148, 184, .5);
@@ -130,7 +130,7 @@ body {
 }
 .petals > div:nth-child(6) {
   z-index: 1;
-  background: #4d091a;
+  background: #7e0315;
   top: 65px;
   height: 70px;
   box-shadow: 0px 0px 50px rgba(245, 148, 184, .3);
@@ -139,7 +139,7 @@ body {
 }
 .petals > div:nth-child(7) {
   z-index: 0;
-  background: #4d091a;
+  background: #7e0315;
   top: 65px;
   height: 70px;
   box-shadow: 0px 0px 50px rgba(245, 148, 184, .3);
@@ -148,7 +148,7 @@ body {
 }
 .deadPetals > div {
   position: absolute;
-  background: #b14d66;
+  background: #7e0315;
   width: 20px;
   height: 15px;
   top: 120px;
